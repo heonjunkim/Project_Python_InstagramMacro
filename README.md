@@ -8,8 +8,8 @@ Python 기반의 Selenium(feat: chrome Driver)을 사용하여 인스타그램�
  - Language : [:crocodile:python 3.7](https://www.python.org/)
  - IDE Tool : [:computer:Pycharm](https://www.jetbrains.com/ko-kr/pycharm/)
  - Pakage Manger: [:snake: Anaconda](https://www.anaconda.com/products/individual)
- - Using Package: (:frog:requests, selenium, beautifulsoup4, time, random)
- - Using WebDriver: Chrome Driver(https://chromedriver.chromium.org/downloads)
+ - Using Package: [:frog:requests, selenium, beautifulsoup4, time, random]
+ - Using WebDriver: [Chrome Driver](https://chromedriver.chromium.org/downloads)
 
 
 ## :trollface:contents
