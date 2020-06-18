@@ -31,7 +31,7 @@ Python 기반의 Selenium(feat: chrome Driver)을 사용하여 인스타그램�
 
 )web driver
 
- 
+ :earth_asia:
  
  
  
