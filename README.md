@@ -1,4 +1,4 @@
-# :ghost: Project_Python_InstagramMacro
+# :ghost: Project_Python_InstagramMacro:full_moon_with_face:
 
 Python 기반의 Selenium(feat: chrome Driver)을 사용하여 인스타그램에 로그인하고, 원하는 해시
 태그로 피드를 검색한 후 피드별로 좋아요를 클릭하고 댓글 등록을 반복하는 매크로 프로그램
