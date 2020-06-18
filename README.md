@@ -12,7 +12,7 @@ Python 기반의 Selenium(feat: chrome Driver)을 사용하여 인스타그램�
  - Using WebDriver: Chrome Driver(https://chromedriver.chromium.org/downloads)
 
 
-## :trollface:contents
+## :trollface:contents  :squirrel:
 1. instagram
 
      -hashtag_reply_macro
